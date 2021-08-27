@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'learn_python'
+NAME = 'learn_python_ms'
 DESCRIPTION = 'This is description of learn python project.'
 URL = 'https://github.com/mandheer/learn_python'
 EMAIL = 'mandheer@pabreja.in'

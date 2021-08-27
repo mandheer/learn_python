@@ -134,3 +134,5 @@ dmypy.json
 .pypirc
 Pipfile
 *.lock
+
+.idea/
