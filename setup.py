@@ -18,7 +18,7 @@ URL = 'https://github.com/mandheer/learn_python'
 EMAIL = 'mandheer@pabreja.in'
 AUTHOR = 'Mandheer Pabreja'
 REQUIRES_PYTHON = '>=3.8.0'
-VERSION = '0.1.0'
+VERSION = '0.1.6'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
@@ -121,11 +121,11 @@ setup(
     install_requires=REQUIRED,
     extras_require=EXTRAS,
     include_package_data=True,
-    license=license,
+    # license=license,
     classifiers=[
         # Trove classifiers
         # Full list: https://pypi.python.org/pypi?%3Aaction=list_classifiers
-        f'License :: {license}',
+        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.8',
